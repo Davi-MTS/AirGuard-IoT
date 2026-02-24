@@ -1,0 +1,12 @@
+streamlit
+pymongo
+requests
+numpy
+pandas
+joblib
+scikit-learn
+plotly
+pydeck
+flask
+paho-mqtt
+
